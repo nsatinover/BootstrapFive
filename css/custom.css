@@ -1,0 +1,8 @@
+.navbar .navbar-brand {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.jumbotron {
+    background-image: url('../img/jumbo-bg.jpg');
+    background-size: cover;
+}
